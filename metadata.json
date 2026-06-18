@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Keyboard",
+  "description": "Una tastiera virtuale Bluetooth a schermo intero per controllare il tuo PC o altri dispositivi direttamente dal tuo smartphone Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
